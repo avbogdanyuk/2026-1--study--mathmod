@@ -1,10 +1,12 @@
-# [1.0.0](https://github.com/avbogdanyuk/2026-1--study--mathmod/compare/v1.0.3...v1.0.0) (2026-04-04)
+# [1.0.0](https://github.com/avbogdanyuk/2026-1--study--mathmod/compare/v1.0.4...v1.0.0) (2026-04-18)
 
 
 ### Features
 
 * **main:** lab04 update ([715996e](https://github.com/avbogdanyuk/2026-1--study--mathmod/commit/715996ee199034fd87f6ecb2de597eb6d560d984))
 * **main:** stage 1 group project ([ef022f5](https://github.com/avbogdanyuk/2026-1--study--mathmod/commit/ef022f5beef1487f3575d1060b1bdc3c4a3e38ca))
+* **main:** stage 2 update ([67c9647](https://github.com/avbogdanyuk/2026-1--study--mathmod/commit/67c96472714366e9635c0a65b036eeb68241a494))
+* **main:** update lab05 ([d5b51c3](https://github.com/avbogdanyuk/2026-1--study--mathmod/commit/d5b51c3b2ccdd2c66dc0e800e618fb5fb1ce1b86))
 
 
 
